@@ -1,6 +1,7 @@
 # readmeDokumentation
 Schritt-für-Schritt-Anleitungen zur Installaton und Anpassung, didaktische Entwürfe, Einsatzszenarien von MinetestEdu ...
 ... entstehen auf
+![MinecraftEdu-LOGO](https://github.com/minetest4edu/readme-Dokumentation-Anleitungen-Einsatzszenarien-von-Minetest-in-Bildung-und-Kultur/blob/master/minetestOER_quaratFin.png)
 https://www.gitbook.com/book/web2write/minetestedu_minetest-in-bildung-kultur/details
 GitBook eignet sich phantastisch zum erstellen von Anleitungen, Handbüchern zu digitalen Programmier- und Entwicklungsprojekten:
 GitBook ist  ein quelloffenes Tool. Die Texte werden in einer einfachen universellen "Formatier-Methode" (Markdown) geschrieben. 
